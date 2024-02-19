@@ -1,2 +1,1 @@
-# little-python
-A few little program made in python 
+### work in progress ... just wait 
